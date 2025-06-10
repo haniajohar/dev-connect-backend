@@ -1,0 +1,26 @@
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# OS and editor files
+.DS_Store # macOS
+Thumbs.db # Windows
+.vscode/ # VS Code specific settings (optional, but often good to ignore)
+
+# IDE and build tool specific files
+.idea/ # IntelliJ IDEA
+.cache/
+build/
+dist/
+tmp/
