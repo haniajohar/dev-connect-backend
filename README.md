@@ -53,9 +53,9 @@ cp .env.example .env
 
 Edit the `.env` file with your configurations:
 ```env
-PORT=3000
-NODE_ENV=development
-MONGODB_URI=mongodb://localhost:27017/
+PORT=your-port-number
+NODE_ENV=your-environment like e.g development
+MONGODB_URI=your-url
 JWT_SECRET=your-super-secret-jwt-key-change-in-production
 JWT_EXPIRES_IN=7d
 ```
@@ -72,7 +72,6 @@ npm run dev
 npm start
 ```
 
-The server will start on `http://localhost:3000`
 
 ## 📚 API Documentation
 
