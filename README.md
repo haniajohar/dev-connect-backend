@@ -285,9 +285,9 @@ Common HTTP status codes:
 
 ### Environment Variables for Production
 ```env
-NODE_ENV=production
-PORT=3000
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/devconnect-lite
+NODE_ENV=e.g production
+PORT=e.g 3000
+MONGODB_URI=your-mongo-uri
 JWT_SECRET=very-long-and-complex-secret-key-for-production
 ```
 
