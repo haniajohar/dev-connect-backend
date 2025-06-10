@@ -36,7 +36,7 @@ A simplified backend service for a developer-client platform built with Node.js,
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/haniajohar/dev-connect-backend.git
 cd devconnect-lite-backend
 ```
 
@@ -205,7 +205,7 @@ devconnect-lite-backend/
 │   └── auth.js          # JWT authentication middleware
 ├── server.js            # Main application entry point
 ├── package.json         # Dependencies and scripts
-├── .env.example         # Environment variables template
+├── .env              # Environment variables template
 └── README.md           # Project documentation
 ```
 
