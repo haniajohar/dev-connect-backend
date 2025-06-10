@@ -334,7 +334,3 @@ JWT_SECRET=very-long-and-complex-secret-key-for-production
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-## 📞 Support
-
-For support or questions, contact: trustnexus.co@gmail.com
